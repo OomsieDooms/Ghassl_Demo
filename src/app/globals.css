@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer base {
+  .font-arabic {
+    font-family: var(--font-noto-arabic), sans-serif;
+  }
+  .font-english {
+    font-family: var(--font-outfit), sans-serif;
+  }
+}
